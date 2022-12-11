@@ -8,7 +8,7 @@
 * Everything as data (first-class values)
 * Separate functions and data. Combine only when it's needed.
 * Rust, Erlang, Lisp
-
+* No significant whitespace
 <!--
 **armagansalman/armagansalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
