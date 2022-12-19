@@ -1,14 +1,38 @@
-### What I like
+## What I like
 
 * As detailed and complete specification as possible
 * Static typing, dynamic binding
+* Maybe type, Result type instead of nullable references and exceptions.
 * Functional programming
 * Actor Model of computation
 * Simple/flat data
-* Everything as data (first-class values)
+* Everything as first-class values
 * Separate functions and data. Combine only when it's needed.
 * Rust, Erlang, Haskell, Lisp
 * No significant whitespace
+
+## Programs I Use
+
+### Windows
+
+* 7-Zip: Archive manager. Open source
+* Geany: Text/Code editor. Open source.
+* KeePassXC: Password manager. Open source.
+* wxHexEditor: File hex editor. Open source. GPL v2 license.
+* Irfanview: Image viewer. Fast & light. Freeware.
+* SMPlayer: Video player. Open source.
+* Firefox: Web browser. Open source.
+
+### Linux
+
+* Geany: Text/Code editor. Open source.
+* KeePassXC: Password manager. Open source.
+* Ristretto: Image viewer. Open source.
+* SMPlayer: Video player. Open source.
+* Firefox: Web browser. Open source.
+* XFCE: Desktop environment. Low resource use.
+
+
 
 
 <!--
