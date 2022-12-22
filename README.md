@@ -18,16 +18,18 @@
 * 7-Zip: Archive manager. Open source
 * Geany: Text/Code editor. Open source.
 * KeePassXC: Password manager. Open source.
-* wxHexEditor: File hex editor. Open source. GPL v2 license.
 * Irfanview: Image viewer. Fast & light. Freeware.
+* SumatraPDF: E-Book reader. Open Source. GPL v3 license.
 * SMPlayer: Video player. Open source.
 * Firefox: Web browser. Open source.
+* wxHexEditor: File hex editor. Open source. GPL v2 license.
 
 ### Linux
 
 * Geany: Text/Code editor. Open source.
 * KeePassXC: Password manager. Open source.
 * Ristretto: Image viewer. Open source.
+* MuPDF: E-Book reader. AGPL or commercial license.
 * SMPlayer: Video player. Open source.
 * Firefox: Web browser. Open source.
 * XFCE: Desktop environment. Low resource use.
