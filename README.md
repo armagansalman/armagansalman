@@ -1,3 +1,12 @@
+## How Systems Should Be
+
+* Correct
+* Useful
+* Simple
+* Unambiguous
+* Fast
+
+
 ## What I like
 
 * As detailed and complete specification as possible
@@ -11,6 +20,7 @@
 * Rust, Erlang, Haskell, Lisp
 * No significant whitespace
 
+
 ## Programs I Use
 
 ### Windows
@@ -23,6 +33,7 @@
 * SMPlayer: Video player. Open source.
 * Firefox: Web browser. Open source.
 * wxHexEditor: File hex editor. Open source. GPL v2 license.
+
 
 ### Linux
 
