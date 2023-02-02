@@ -7,7 +7,7 @@
 * Fast
 
 
-## What I like
+## What I like (Computer Engineering, Computer Science related)
 
 * As detailed and complete specification as possible
 * Static typing, dynamic binding
