@@ -1,6 +1,7 @@
 ## How Systems Should Be
 
 * Correct
+* Secure
 * Useful
 * Simple
 * Evolutionary
