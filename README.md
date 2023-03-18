@@ -41,6 +41,7 @@
 * Geany: Text/Code editor. Open source.
 * KeePassXC: Password manager. Open source.
 * Ristretto: Image viewer. Open source.
+* Foliate: E-Book reader.
 * MuPDF: E-Book reader. AGPL or commercial license.
 * SMPlayer: Video player. Open source.
 * Firefox: Web browser. Open source.
