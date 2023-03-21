@@ -1,11 +1,11 @@
 ## How Systems Should Be
 
-* Correct
-* Secure
-* Useful
-* Simple
-* Evolutionary
-* Fast
+☉ Useful
+☉ Simple
+☉ Correct
+☉ Secure
+☉ Evolutionary
+☉ Fast
 
 
 ## What I like (Computer Engineering, Computer Science related)
