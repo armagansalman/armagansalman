@@ -1,10 +1,9 @@
 ## How Systems Should Be
 
+☉ Correct
 ☉ Useful
 ☉ Simple
-☉ Correct
 ☉ Secure
-☉ Evolutionary
 ☉ Fast
 
 
